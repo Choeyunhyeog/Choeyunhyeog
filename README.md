@@ -1,4 +1,4 @@
-##Welcome to my GITHUB! I'm Choe Yunhyeog
+## Welcome to my GITHUB! I'm Choe Yunhyeog
 
 im interested in game & web dev
 
